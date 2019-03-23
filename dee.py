@@ -145,6 +145,7 @@ def greengrass_infinite_infer_run():
         traceback.print_exc()
     except Exception as e:
         print "The non-0 exception was", e
+        print "FException: " + str(e)
         print "Oh well - now running again:"
         greengrass_infinite_infer_run()
 

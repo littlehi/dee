@@ -1,3 +1,11 @@
+This project fork from https://github.com/matthew1000/dee
+
++ support chinese language
++ using polly chinese language
++ fixed unknow object cause deeplens lambda restart issue
+
+more detail please reference README2.md 
+
 # Dee, the *DeepLens Educating Entertainer*.
 
 ![Picture of Dee](dee.jpg)
